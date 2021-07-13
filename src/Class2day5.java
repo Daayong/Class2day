@@ -14,9 +14,9 @@ public class Class2day5 {
 		
 		System.out.println("ID를 입력하세요");
 		//ID 입력 후 저장
-		System.out.println("PW를 입력하세요");
-
+		
 		int id2 = sc.nextInt();
+		System.out.println("PW를 입력하세요");
 		int pw2 = sc.nextInt();
 		
 		//로그인이 성공하면 -로그인 성공 출력
